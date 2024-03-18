@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Neste projeto será apresentado o artigo e um video, fazendo demonstração do papel crescente da Inteligência Artificial (IA) generativa na criação de conteúdo digital e sua influência na indústria da criatividade. O texto explora as implicações dessa tecnologia em diversas áreas, desde a produção de texto automatizada até a personalização de conteúdo para usuários individuais. Além disso, são discutidos os desafios éticos e legais associados à adoção generalizada da IA generativa, incluindo questões de viés, propriedade intelectual e impacto na força de trabalho. No entanto, apesar dos desafios, o artigo destaca o potencial transformador dessa tecnologia para impulsionar a criatividade e a inovação na criação de conteúdo digital.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+* IA generativa [ChatGPT](https://chat.openai.com/) para roterização e revisão do conteúdo ( Artigo);
+* IA generativa [Vidnoz IA](https://aiapp-pt.vidnoz.com/) para criação de video, utilizando avatar virtual;
+* Aplicativo da **Microsoft Office Word**, para digitação de texto.
+  
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+* **Etapa 1: Planejamento e Roteirização**
+
+  O primeiro passo no processo criativo é a concepção da ideia e a elaboração do roteiro. Aqui é onde a IA generativa [ChatGPT](https://chat.openai.com/) entra em cena. Utilizando o ChatGPT, é possível gerar 
+  ideias, esboçar a estrutura do conteúdo e até mesmo escrever partes do roteiro. A inteligência artificial é capaz de oferecer sugestões valiosas com base em entradas fornecidas pelo 
+  usuário, ajudando a refinar e expandir a criatividade.
+
+* **Etapa 2: Criação de Conteúdo Visual**
+  
+  Após a elaboração do roteiro, é hora de transformar o texto em um conteúdo visual envolvente. Aqui é onde a IA generativa [Vidnoz IA](https://aiapp-pt.vidnoz.com/) brilha. Utilizando algoritmos avançados, o Vidnoz pode transformar o texto em vídeos animados utilizando avatares virtuais. Esses avatares podem ser personalizados para se adequar ao conteúdo e à mensagem desejada, adicionando uma 
+  dimensão visual única ao projeto.
+
+
+
+* **Etapa 3: Edição e Revisão**
+
+  Com o vídeo criado, é importante revisar e refinar o conteúdo para garantir sua qualidade e precisão. Neste ponto, o ChatGPT pode ser novamente utilizado para revisar o texto do 
+  vídeo, oferecendo sugestões de edição e correção gramatical. Além disso, o aplicativo Microsoft Office Word é uma ferramenta essencial para a edição de texto, fornecendo recursos 
+  robustos para revisão ortográfica, formatação e organização do conteúdo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Após a conclusão da edição e revisão, o conteúdo está pronto para ser finalizado e distribuído. Combinando o vídeo gerado pelo Vidnoz com o texto refinado no Microsoft Word, o resultado final é um conteúdo multimídia de alta qualidade e impacto. Este conteúdo pode então ser distribuído através de várias plataformas online, como redes sociais, websites e canais de vídeo.
+Em resumo, o processo de criação de conteúdo utilizando ferramentas de IA generativa e o Microsoft Office Word oferece uma abordagem inovadora e eficaz para a produção de materiais digitais. Desde o planejamento inicial até a distribuição final, essas ferramentas trabalham em conjunto para facilitar e aprimorar cada etapa do processo criativo, resultando em conteúdo final que cativa e inspira o público-alvo.
+(https://share.vidnoz.com/aishare-OSs8GMbnzIYhsDGNyPpJxz5E17107679902620513)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto, foi uma oportunidade de aprendizado e aperfeiçoamento. Em resumo, este trabalho realizado foi uma demonstração de como a combinação de tecnologia avançada, habilidades criativas e considerações éticas pode resultar em conteúdo digital de alta qualidade e impacto. Ao refletir sobre o processo, podemos identificar lições aprendidas e insights valiosos que nos guiarão em projetos futuros.
