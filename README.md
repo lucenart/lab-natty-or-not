@@ -29,7 +29,8 @@ Neste projeto será apresentado o artigo e um video, fazendo demonstração do p
 ## 🚀 Resultados
 Após a conclusão da edição e revisão, o conteúdo está pronto para ser finalizado e distribuído. Combinando o vídeo gerado pelo Vidnoz com o texto refinado no Microsoft Word, o resultado final é um conteúdo multimídia de alta qualidade e impacto. Este conteúdo pode então ser distribuído através de várias plataformas online, como redes sociais, websites e canais de vídeo.
 Em resumo, o processo de criação de conteúdo utilizando ferramentas de IA generativa e o Microsoft Office Word oferece uma abordagem inovadora e eficaz para a produção de materiais digitais. Desde o planejamento inicial até a distribuição final, essas ferramentas trabalham em conjunto para facilitar e aprimorar cada etapa do processo criativo, resultando em conteúdo final que cativa e inspira o público-alvo.
-(https://share.vidnoz.com/aishare-OSs8GMbnzIYhsDGNyPpJxz5E17107679902620513)
+
+[LINK PARA O VIDEO](https://share.vidnoz.com/aishare-OSs8GMbnzIYhsDGNyPpJxz5E17107679902620513)
 
 ## 💭 Reflexão (Opcional)
 Este projeto, foi uma oportunidade de aprendizado e aperfeiçoamento. Em resumo, este trabalho realizado foi uma demonstração de como a combinação de tecnologia avançada, habilidades criativas e considerações éticas pode resultar em conteúdo digital de alta qualidade e impacto. Ao refletir sobre o processo, podemos identificar lições aprendidas e insights valiosos que nos guiarão em projetos futuros.
