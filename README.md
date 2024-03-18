@@ -32,5 +32,7 @@ Em resumo, o processo de criação de conteúdo utilizando ferramentas de IA gen
 
 [LINK PARA O VIDEO](https://share.vidnoz.com/aishare-OSs8GMbnzIYhsDGNyPpJxz5E17107679902620513)
 
+[LINK DO ARTIGO](https://github.com/siqueirago/lab-natty-or-not/blob/main/artigo.md)
+
 ## 💭 Reflexão (Opcional)
 Este projeto, foi uma oportunidade de aprendizado e aperfeiçoamento. Em resumo, este trabalho realizado foi uma demonstração de como a combinação de tecnologia avançada, habilidades criativas e considerações éticas pode resultar em conteúdo digital de alta qualidade e impacto. Ao refletir sobre o processo, podemos identificar lições aprendidas e insights valiosos que nos guiarão em projetos futuros.
