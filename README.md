@@ -1,4 +1,4 @@
-# IA Generativa: Natural ou Fake Natty
+9# IA Generativa: Natural ou Fake Natty
 ## 📒 Descrição
 Neste projeto será apresentado o artigo e um video, fazendo demonstração do papel crescente da Inteligência Artificial (IA) generativa na criação de conteúdo digital e sua influência na indústria da criatividade. O texto explora as implicações dessa tecnologia em diversas áreas, desde a produção de texto automatizada até a personalização de conteúdo para usuários individuais. Além disso, são discutidos os desafios éticos e legais associados à adoção generalizada da IA generativa, incluindo questões de viés, propriedade intelectual e impacto na força de trabalho. No entanto, apesar dos desafios, o artigo destaca o potencial transformador dessa tecnologia para impulsionar a criatividade e a inovação na criação de conteúdo digital.
 ## 🤖 Tecnologias Utilizadas
@@ -34,5 +34,5 @@ Em resumo, o processo de criação de conteúdo utilizando ferramentas de IA gen
 
 [LINK DO ARTIGO](https://github.com/siqueirago/lab-natty-or-not/blob/main/artigo.md)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Este projeto, foi uma oportunidade de aprendizado e aperfeiçoamento. Em resumo, este trabalho realizado foi uma demonstração de como a combinação de tecnologia avançada, habilidades criativas e considerações éticas pode resultar em conteúdo digital de alta qualidade e impacto. Ao refletir sobre o processo, podemos identificar lições aprendidas e insights valiosos que nos guiarão em projetos futuros.
