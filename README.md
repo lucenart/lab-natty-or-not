@@ -1,4 +1,4 @@
-9# IA Generativa: Natural ou Fake Natty
+# IA Generativa: Natural ou Fake Natty
 ## 📒 Descrição
 Neste projeto será apresentado o artigo e um video, fazendo demonstração do papel crescente da Inteligência Artificial (IA) generativa na criação de conteúdo digital e sua influência na indústria da criatividade. O texto explora as implicações dessa tecnologia em diversas áreas, desde a produção de texto automatizada até a personalização de conteúdo para usuários individuais. Além disso, são discutidos os desafios éticos e legais associados à adoção generalizada da IA generativa, incluindo questões de viés, propriedade intelectual e impacto na força de trabalho. No entanto, apesar dos desafios, o artigo destaca o potencial transformador dessa tecnologia para impulsionar a criatividade e a inovação na criação de conteúdo digital.
 ## 🤖 Tecnologias Utilizadas
