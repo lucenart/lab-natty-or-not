@@ -1,15 +1,14 @@
-# IA Generativa: Natural ou Fake Natty
+# Como Distinguir Fisiculturistas Naturais de Usuários de Esteroides
 ## 📒 Descrição
-Neste projeto será apresentado o artigo e um video, fazendo demonstração do papel crescente da Inteligência Artificial (IA) generativa na criação de conteúdo digital e sua influência na indústria da criatividade. O texto explora as implicações dessa tecnologia em diversas áreas, desde a produção de texto automatizada até a personalização de conteúdo para usuários individuais. Além disso, são discutidos os desafios éticos e legais associados à adoção generalizada da IA generativa, incluindo questões de viés, propriedade intelectual e impacto na força de trabalho. No entanto, apesar dos desafios, o artigo destaca o potencial transformador dessa tecnologia para impulsionar a criatividade e a inovação na criação de conteúdo digital.
+Neste projeto, você encontrará um artigo, um vídeo e um áudio que exploram as diferenças entre fisiculturistas naturais e usuários de esteroides. O conteúdo aborda os limites fisiológicos de crescimento muscular, os sinais físicos que podem indicar o uso de substâncias, os impactos do uso de esteroides na saúde a longo prazo e a importância de valorizar a jornada e o esforço natural no fisiculturismo. A discussão se aprofunda nos desafios e nas implicações éticas de se buscar um físico com o uso de substâncias ilegais, destacando o valor da dedicação e da disciplina genuínas.
 ## 🤖 Tecnologias Utilizadas
-* IA generativa [ChatGPT](https://chat.openai.com/) para roterização e revisão do conteúdo ( Artigo);
+* IA generativa [Gemini](gemini.google.com) para roterização e revisão do conteúdo (Artigo);
 * IA generativa [Vidnoz IA](https://aiapp-pt.vidnoz.com/) para criação de video, utilizando avatar virtual;
-* Aplicativo da **Microsoft Office Word**, para digitação de texto.
   
 ## 🧐 Processo de Criação
 * **Etapa 1: Planejamento e Roteirização**
 
-  O primeiro passo no processo criativo é a concepção da ideia e a elaboração do roteiro. Aqui é onde a IA generativa [ChatGPT](https://chat.openai.com/) entra em cena. Utilizando o ChatGPT, é possível gerar 
+  O primeiro passo no processo criativo é a concepção da ideia e a elaboração do roteiro. Aqui é onde a IA generativa [Gemini](gemini.google.com) entra em cena. Utilizando o Gemini, é possível gerar 
   ideias, esboçar a estrutura do conteúdo e até mesmo escrever partes do roteiro. A inteligência artificial é capaz de oferecer sugestões valiosas com base em entradas fornecidas pelo 
   usuário, ajudando a refinar e expandir a criatividade.
 
@@ -17,8 +16,6 @@ Neste projeto será apresentado o artigo e um video, fazendo demonstração do p
   
   Após a elaboração do roteiro, é hora de transformar o texto em um conteúdo visual envolvente. Aqui é onde a IA generativa [Vidnoz IA](https://aiapp-pt.vidnoz.com/) brilha. Utilizando algoritmos avançados, o Vidnoz pode transformar o texto em vídeos animados utilizando avatares virtuais. Esses avatares podem ser personalizados para se adequar ao conteúdo e à mensagem desejada, adicionando uma 
   dimensão visual única ao projeto.
-
-
 
 * **Etapa 3: Edição e Revisão**
 
@@ -35,4 +32,6 @@ Em resumo, o processo de criação de conteúdo utilizando ferramentas de IA gen
 [LINK DO ARTIGO](https://github.com/siqueirago/lab-natty-or-not/blob/main/artigo.md)
 
 ## 💭 Reflexão
-Este projeto, foi uma oportunidade de aprendizado e aperfeiçoamento. Em resumo, este trabalho realizado foi uma demonstração de como a combinação de tecnologia avançada, habilidades criativas e considerações éticas pode resultar em conteúdo digital de alta qualidade e impacto. Ao refletir sobre o processo, podemos identificar lições aprendidas e insights valiosos que nos guiarão em projetos futuros.
+Este projeto, foi uma oportunidade para aprofundar nossos conhecimentos e aprimorar nossas habilidades na produção de conteúdo. O trabalho final — composto por um artigo detalhado, um vídeo e um áudio — demonstrou como é possível combinar pesquisa aprofundada, clareza na comunicação e uma abordagem ética para criar conteúdo digital de alta qualidade.
+
+Ao longo do processo, aprendemos a abordar um tema complexo com responsabilidade, destacando não apenas os sinais físicos, mas também as implicações de saúde e os valores da disciplina e do esforço genuíno. A reflexão sobre a jornada do fisiculturista, seja ela natural ou não, nos permitiu produzir um material que é não só informativo, mas também motivacional e consciente.
