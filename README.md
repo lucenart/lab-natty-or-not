@@ -25,9 +25,9 @@ Neste projeto, você encontrará um artigo, um vídeo e um áudio que exploram a
   vídeo, oferecendo sugestões de edição e correção gramatical.
   
 ## 🚀 Resultados
-[LINK PARA O ÁUDIO](https://share.vidnoz.com/aishare-OSs8GMbnzIYhsDGNyPpJxz5E17107679902620513](https://share.vidnoz.com/aivideo?id=aishare-FAfY4c5EQ32vG4Q7nvBOsxTW175855583821119199)](https://github.com/lucenart/lab-natty-or-not/blob/main/Artigo%20Natty%20or%20Not.mp3))
+[LINK PARA O ÁUDIO](https://github.com/lucenart/lab-natty-or-not/blob/main/Artigo%20Natty%20or%20Not.mp3)
 
-[LINK PARA O VIDEO](https://share.vidnoz.com/aishare-OSs8GMbnzIYhsDGNyPpJxz5E17107679902620513](https://share.vidnoz.com/aivideo?id=aishare-FAfY4c5EQ32vG4Q7nvBOsxTW175855583821119199))
+[LINK PARA O VIDEO](https://share.vidnoz.com/aivideo?id=aishare-FAfY4c5EQ32vG4Q7nvBOsxTW175855583821119199)
 
 [LINK DO ARTIGO](https://github.com/lucenart/lab-natty-or-not/blob/main/artigo.md)
 
